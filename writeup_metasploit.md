@@ -5,7 +5,7 @@
 > **Цель:** Metasploitable 3 (Ubuntu 14.04) — 192.168.56.3 
 > **Уязвимость:** CVE-2016-0787 — Apache Continuum Arbitrary Command Execution 
 > **Роль:** Red Team / Blue Team Simulation 
-> **Контакты:** [github.com/Dronard](https://github.com/Dronard)
+> **Контакты:** [my-resume](https://github.com/sp9232046-tech/my-resume)
 
 ---
 
