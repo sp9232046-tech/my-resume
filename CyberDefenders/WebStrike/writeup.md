@@ -36,7 +36,8 @@
 
 ### Флаг/Ответ
 Tianjin
-![Q1: Геолокация IP](screenshots/q1_geolocation.jpg)
+
+![Q1: ГеолокацияIP](screenshots/q1_geolocation.jpg)
 
 # Q2 USER-AGENT
 1. Фильтр: ip.addr == 117.11.88.124 && http.request
@@ -45,6 +46,7 @@ Tianjin
 
 ### Флаг/Ответ
 Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
 ![Q2: User-Agent](screenshots/q2_user_agent.jpg)
 
 # Q3  ВЕБ-ШЕЛЛ
@@ -57,6 +59,7 @@ Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
 
 ### Флаг/Ответ
 image.jpg.php
+
 ![Q3: webshell](screenshots/q3_webshell.jpg)
 
 # Q4  ДИРЕКТОРИЯ
