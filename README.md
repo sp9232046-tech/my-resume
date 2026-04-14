@@ -1,7 +1,7 @@
 # Снитко Владимир Александрович 
 **Junior SOC Analyst**
 
-г. Ессентуки |  karas00-25@yandex.ru |  https://t.me/Dimidoff23 
+г. Ессентуки |  snitco.vladimir@yandex.ru |  https://t.me/Dimidoff23 
 
 ---
 
