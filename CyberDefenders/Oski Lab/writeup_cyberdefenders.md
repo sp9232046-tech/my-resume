@@ -1,12 +1,11 @@
-> **Автор:** Dronard
-> **Дата:** 2026-04-14
-> **Платформа:** CyberDefenders.org
-> **Задача:** Oski — Blue Team CTF
-> **Цель:** *(заполним после ознакомления с задачей)*
-> **Роль:** Blue Team / SOC Analyst Simulation
-> **Репозиторий:** [my-resume](https://github.com/sp9232046-tech/my-resume/)
+> **Автор:** Dronard  
+> **Дата:** 2026-04-14  
+> **Платформа:** CyberDefenders.org  
+> **Задача:** Oski — Blue Team CTF  
+> **Цель:** Анализ отчета Any.Run по малвари Stealc: выявление поведения, извлечение конфигурации (C2, RC4-ключ), сопоставление с MITRE ATT&CK  
+> **Роль:** Blue Team / SOC Analyst Simulation  
+> **Репозиторий:** [my-resume](https://github.com/sp9232046-tech/my-resume/)  
 > **Статус:** Completed
-
 ---
 # CyberDefenders Writeups
 
