@@ -38,7 +38,7 @@
 
 **Ответ:** `2022-09-28 17:40`
 
-![Q1:2026-04-14 ](screenshots/Q1.png)
+![Q1](screenshots/Q1.jpg)
 ---
 ## Q2: C2 сервер (Command & Control)
 
@@ -52,7 +52,7 @@
 
 **Ответ:** `http://171.22.28.221/5c06c05b7b34e8e6.php`
 
-![Q2:2026-04-14 ](screenshots/Q2.png)
+![Q2](screenshots/Q2.jpg)
 
 ---
 ## Q3: Загружаемая библиотека
@@ -67,7 +67,7 @@
 
 **Ответ:** `sqlite3.dll`
 
-![Q3:2026-04-14 ](screenshots/Q3.png)
+![Q3](screenshots/Q3.jpg)
 
 ---
 ## Q4: Ключ шифрования RC4
@@ -82,7 +82,7 @@
 
 **Ответ:** `5329514621441247975720749009`
 
-![Q4:2026-04-14 ](screenshots/Q4.png)
+![Q4](screenshots/Q4.jpg)
 
 ---
 ## Q5: MITRE ATT&CK — Кража учетных данных
@@ -97,7 +97,7 @@
 
 **Ответ:** `T1555`
 
-![Q5:2026-04-14 ](screenshots/Q5.png)
+![Q5](screenshots/Q5.jpg)
 
 ---
 ## Q6: Путь удаления/сохранения
@@ -113,7 +113,7 @@
 
 **Ответ:** `C:\ProgramData`
 
-![Q6:2026-04-14 ](screenshots/Q6.png)
+![Q6](screenshots/Q6.jpg)
 
 ---
 ## Q7: Время самоудаления
@@ -128,7 +128,7 @@
 
 **Ответ:** `5`
 
-![Q7:2026-04-14 ](screenshots/Q7.png)
+![Q7](screenshots/Q7.jpg)
 
 ---
 ### Что узнал
