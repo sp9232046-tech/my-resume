@@ -36,9 +36,9 @@
 
 \*\*Скриншоты:\*\*
 
-!\[Q1 - Все NBT-NS запросы (видны опечатки)](screenshots/Q1\_all\_requests.png)
+!\[Q1 - Все NBT-NS запросы (видны опечатки)](screenshots/Q1\_all\_requests.jpg)
 
-!\[Q1 - Фильтр по IP 192.168.232.162](screenshots/Q1\_final\_filter.png)
+!\[Q1 - Фильтр по IP 192.168.232.162](screenshots/Q1\_final\_filter.jpg)
 
 
 
@@ -76,7 +76,7 @@
 
 \*\*Скриншоты:\*\*
 
-!\[Q2 - Ответ злоумышленника](screenshots/Q2\_attacker\_response.png)
+!\[Q2 - Ответ злоумышленника](screenshots/Q2\_attacker\_response.jpg)
 
 
 
@@ -110,7 +110,7 @@
 
 \*\*Скриншоты:\*\*
 
-!\[Q3 - Ответы злоумышленника](screenshots/Q3\_malicious\_responses.png)
+!\[Q3 - Ответы злоумышленника](screenshots/Q3\_malicious\_responses.jpg)
 
 
 
@@ -148,9 +148,9 @@
 
 \*\*Скриншоты:\*\*
 
-!\[Q4 - Фильтр SMB-трафика](screenshots/Q4\_smb\_filter.png)
+!\[Q4 - Фильтр SMB-трафика](screenshots/Q4\_smb\_filter.jpg)
 
-!\[Q4 - Account janesmith](screenshots/Q4\_account\_found.png)
+!\[Q4 - Account janesmith](screenshots/Q4\_account\_found.jpg)
 
 
 
@@ -188,7 +188,7 @@
 
 \*\*Скриншоты:\*\*
 
-!\[Q5 - Имя хоста ACCOUNTINGPC](screenshots/Q5\_hostname.png)
+!\[Q5 - Имя хоста ACCOUNTINGPC](screenshots/Q5\_hostname.jpg)
 
 
 
