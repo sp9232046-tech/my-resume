@@ -114,7 +114,7 @@
 
 **Шаги:**
 
-1. Фильтр: `ip.src == 192.168.232.215 && (tcp.port == 445 || tcp.port == 139)`
+1. Фильтр: `ntlmssp && ip.src == 192.168.232.176`
 2. Находим пакет Session Setup Response
 3. Раскрываем: SMB2 → Security Blob → NTLMSSP → Target Info
 4. Ищем: Attribute — NetBIOS computer name
