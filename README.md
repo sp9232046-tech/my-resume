@@ -1,123 +1,91 @@
 # Снитко Владимир Александрович
-**Junior SOC Analyst**
 
-г. Ессентуки | snitco.vladimir@yandex.ru | https://t.me/Dimidoff23
+**Junior SOC Analyst**  
+г. Ессентуки (готов к релокации / удалённой работе)  
+📧 snitco.vladimir@yandex.ru | Telegram: [@Dimidoff23](https://t.me/Dimidoff23)
 
 ### Обо мне
+Junior SOC Analyst с практическим уклоном в мониторинг событий безопасности, анализ трафика и реагирование на инциденты.  
 
-Junior SOC Analyst с практическим уклоном в мониторинг, анализ событий безопасности и реагирование на инциденты.  
+Прохожу профессиональную переподготовку в **Skillbox** по программе «Специалист по кибербезопасности» (**67% завершено**). Имею уверенную базу сетевой безопасности, администрирования Linux/Windows и расследования инцидентов.  
 
-Прохожу профессиональную переподготовку по программе «Специалист по кибербезопасности» в Skillbox (**67% завершено**). Имею хорошую базу в сетевой безопасности, администрировании Linux/Windows, анализе трафика и расследовании инцидентов.  
+Обладаю значительным опытом работы с конфиденциальной информацией и руководства командой на государственной службе. Отличаюсь высокой дисциплиной, стрессоустойчивостью и системным мышлением.  
 
-Обладаю опытом работы с конфиденциальной информацией, высокой дисциплиной и стрессоустойчивостью, приобретёнными на государственной службе. Ищу первую позицию **Junior SOC Analyst** / Security Analyst для дальнейшего профессионального роста.
+Ищу первую позицию **Junior SOC Analyst / Security Analyst**.
 
 ---
 
-## Навыки
+## Hard Skills
 
-### Hard Skills
+**Сетевая безопасность**
+- TCP/IP, OSI (L1–L7)
+- **Wireshark**, tcpdump, Nmap
+- **iptables**, VPN (IPsec)
 
-**Сетевая безопасность:**
-- TCP/IP, OSI модель (L1–L7)
-- Анализ трафика: **Wireshark**, tcpdump, Nmap
-- Firewall: **iptables**
-- VPN: IPsec (Site-to-Site, Remote Access)
-- Сетевое сканирование и enumeration
+**Операционные системы**
+- **Linux** (Ubuntu, CentOS): hardening, Bash, journalctl, rsyslog
+- **Windows Server**: Active Directory, GPO, PowerShell, аудит
 
-**Операционные системы:**
-- **Linux** (Ubuntu, CentOS): администрирование, hardening, journalctl, rsyslog, Bash scripting
-- **Windows Server**: Active Directory, Group Policy, PowerShell, аудит событий
-
-**Инструменты информационной безопасности:**
-- Сканеры уязвимостей: **Nessus**, OpenVAS
-- Exploitation Framework: **Metasploit Framework**, Meterpreter
-- Веб-безопасность: **Burp Suite**, OWASP ZAP
-- Анализ Active Directory: **BloodHound**
-- Взлом паролей: **Hashcat**, John the Ripper
+**Инструменты ИБ**
+- Nessus, OpenVAS, Metasploit, Burp Suite, OWASP ZAP
+- BloodHound, Hashcat, John the Ripper
 - OSINT: Maltego, theHarvester, Shodan
 
-**Анализ и реагирование:**
-- Threat Hunting
-- Digital Forensics & Incident Response (DFIR)
-- Работа с логами, поиск аномалий
-- Incident Response
+**Анализ и реагирование**
+- Threat Hunting, Incident Response (DFIR)
+- Анализ логов и поиск аномалий
 
-**Автоматизация:**
-- Python (базовый уровень)
-- Bash scripting
-- PowerShell
-
-**Знаком с инструментами Red Team** (в рамках обучения):
-- Metasploit, Burp Suite, BloodHound, Hashcat
+**Автоматизация**
+- Python (базовый), Bash, PowerShell
 
 ---
 
 ## Опыт работы
 
-### Пограничные органы ФСБ России
+**Пограничные органы ФСБ России**  
 **Начальник отделения** | 2008 — август 2026
 
-**Ключевые обязанности и достижения:**
-- Организация мониторинга и анализа оперативной информации из множества источников
-- Руководство командой из 15 человек: проведение регулярных тренировок по реагированию на инциденты (аналог **Incident Response drills**)
-- Непосредственное реагирование на инциденты и принятие оперативных решений
-- Подготовка детальных отчётных документов (аналог **Incident Reports** и Threat Intelligence Reports)
-- Автоматизация сбора данных → высвобождение **20%** рабочего времени персонала
-- Внедрение чек-листов первичного анализа инцидентов → сокращение времени принятия решений на **15%**
-- Обеспечение **нулевых утечек** конфиденциальной информации
-- Проведение более **50** командных тренировок в нештатных ситуациях
+**Ключевые достижения:**
+- Руководил командой из 15 человек, проводил регулярные **Incident Response drills**
+- Организовывал мониторинг и анализ оперативной информации из множества источников
+- Автоматизировал сбор данных → высвободил **20%** рабочего времени персонала
+- Внедрил чек-листы анализа инцидентов → сократил время принятия решений на **15%**
+- Обеспечил **нулевые утечки** конфиденциальной информации за весь период
+- Подготовил более **50** командных тренировок и детальных отчётов (аналог Incident Reports)
 
 ---
 
 ## Образование
-
-**Московский пограничный институт ФСБ РФ**  
-Юриспруденция, 2008
-
-**Благовещенское медицинское училище**  
-Медбрат
+- **Московский пограничный институт ФСБ РФ** — Юриспруденция, 2008
+- **Благовещенское медицинское училище** 
 
 ---
 
-## Курсы и сертификации
-
-**Skillbox — «Специалист по кибербезопасности»**  
-*В процессе обучения (67% завершено)* | 2024 — 2026
-
-**Пройденные модули и практики:**
-- Сетевая безопасность (TCP/IP, firewall, VPN, IPsec, SSL/TLS)
-- Администрирование Linux и Windows, PowerShell
-- Анализ трафика в **Wireshark**, tcpdump
-- Сканирование уязвимостей (**Nessus**, OpenVAS)
-- Анализ защищённости и эксплуатация уязвимостей (Metasploit, Burp Suite и др.)
-- Управление инцидентами и основы информационной безопасности
-- OSINT-расследования
+## Курсы
+**Skillbox — Специалист по кибербезопасности** *(67% завершено, 2024–2026)*
 
 **Практические работы:**
-- Настройка iptables, VLAN, NAT, firewall
-- Развёртывание Active Directory
-- Атаки на Active Directory (Pass-the-Hash, Kerberoasting, NTLM Relay)
-- Анализ сетевого трафика и расследование инцидентов
+- Анализ трафика в Wireshark и tcpdump
+- Настройка iptables, Active Directory, VLAN/NAT
+- Сканирование уязвимостей (Nessus, OpenVAS)
+- Атаки на Active Directory (Pass-the-Hash, Kerberoasting и др.)
+- OSINT-расследования и эксплуатация веб-уязвимостей
 
 ---
 
-## Портфолио (Write-ups)
+## 📁 Портфолио (Write-ups)
 
-Практические кейсы расследования инцидентов и анализа угроз:
-
-- **[Metasploitable3: Эксплуатация Apache Continuum + полный цикл Incident Response](writeup_metasploit.md)**  
-  Red Team + Blue Team подход.
-
+- **[Metasploitable3: Эксплуатация + Incident Response](metasploit/writeup_metasploit.md)** — Red + Blue Team
 - **CyberDefenders — SOC Level 1**
-  - [WebStrike: Анализ веб-шелла и reverse shell в PCAP](CyberDefenders/webstrike.md) *(в процессе)*
-  - [Oski: Анализ инфостилера Stealc + MITRE ATT&CK](CyberDefenders/oski.md) *(в процессе)*
-  - [PoisonedCredentials: LLMNR/NBT-NS poisoning атака в Wireshark](CyberDefenders/poisonedcredentials.md)
+  - [WebStrike: Анализ веб-шелла и reverse shell](CyberDefenders/WebStrike/writeup_WebStrike.md)
+  - [Oski: Анализ инфостилера Stealc + MITRE ATT&CK](CyberDefenders/Oski%20Lab/writeup_cyberdefenders.md)
+  - [PoisonedCredentials: LLMNR/NBT-NS poisoning](CyberDefenders/PoisonedCredentials/writeup_PoisonedCredentials.md)
 
-**Скриншоты лабораторных:**
-- `CyberDefenders/Oski Lab/screenshots/`
-- `CyberDefenders/PoisonedCredentials/screenshots/`
-- `CyberDefenders/WebStrike/screenshots/`
-- `metasploit/screenshots/`
+**Скриншоты:**
+- [CyberDefenders/Oski Lab/screenshots/](CyberDefenders/Oski%20Lab/screenshots/)
+- [CyberDefenders/PoisonedCredentials/screenshots/](CyberDefenders/PoisonedCredentials/screenshots/)
+- [CyberDefenders/WebStrike/screenshots/](CyberDefenders/WebStrike/screenshots/)
+- [metasploit/screenshots/](metasploit/screenshots/)
+
 ---
-
-Готово к использованию.
+Готов к долгосрочному развитию в команде SOC.
